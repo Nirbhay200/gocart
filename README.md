@@ -86,3 +86,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 
 <!-- 4th day  -->
+<!-- ## 🧠 What I Learned
+
+- Implemented multi-vendor system architecture
+- Managed global state using Redux Toolkit
+- Built responsive UI using Tailwind CSS
+- Integrated authentication and protected routes
+- Improved performance using Next.js features -->
